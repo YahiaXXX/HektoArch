@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/coreapi/coreapi.iml" filepath="$PROJECT_DIR$/coreapi/coreapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-client-commands/ms-client-commands.iml" filepath="$PROJECT_DIR$/ms-client-commands/ms-client-commands.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-client-queries/ms-client-queries.iml" filepath="$PROJECT_DIR$/ms-client-queries/ms-client-queries.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/new-ms-client.iml" filepath="$PROJECT_DIR$/.idea/new-ms-client.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/coreapis/coreapis.iml" filepath="$PROJECT_DIR$/coreapis/coreapis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ms-shop.iml" filepath="$PROJECT_DIR$/.idea/ms-shop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-shop-commands/ms-shop-commands.iml" filepath="$PROJECT_DIR$/ms-shop-commands/ms-shop-commands.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-shop-queries/ms-shop-queries.iml" filepath="$PROJECT_DIR$/ms-shop-queries/ms-shop-queries.iml" />
+    </modules>
+  </component>
+</project>

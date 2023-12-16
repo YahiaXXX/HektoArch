@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/admin-command/pom.xml" />
+        <option value="$PROJECT_DIR$/admin-query/pom.xml" />
+        <option value="$PROJECT_DIR$/coreapi/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/tt/pom.xml" />
+        <option value="$PROJECT_DIR$/ms-admin-commands/pom.xml" />
+        <option value="$PROJECT_DIR$/ms-admin-queries/pom.xml" />
+        <option value="$PROJECT_DIR$/ms-client-just-for-test/pom.xml" />
+        <option value="$PROJECT_DIR$/ms-product-just-for-test/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-gateway/eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-gateway/gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/ms-client/coreapiclient/pom.xml" />
+        <option value="$PROJECT_DIR$/ms-client/coreapi/pom.xml" />
+        <option value="$PROJECT_DIR$/ms-client/ms-client-commands/pom.xml" />
+        <option value="$PROJECT_DIR$/ms-client/ms-client-queries/pom.xml" />
+        <option value="$PROJECT_DIR$/ms-admin/ms-admin-commands/pom.xml" />
+        <option value="$PROJECT_DIR$/ms-admin/ms-admin-queries/pom.xml" />
+        <option value="$PROJECT_DIR$/ms-admin/coreapi/pom.xml" />
+        <option value="$PROJECT_DIR$/ms-shop/coreapis/pom.xml" />
+        <option value="$PROJECT_DIR$/ms-shop/ms-shop-commands/pom.xml" />
+        <option value="$PROJECT_DIR$/ms-shop/ms-shop-queries/pom.xml" />
+        <option value="$PROJECT_DIR$/ms-auth/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_19" default="true" project-jdk-name="19" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

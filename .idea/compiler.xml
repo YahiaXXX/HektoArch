@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ms-client-just-for-test" />
+        <module name="ms-shop-commands" />
+        <module name="admin-command" />
+        <module name="ms-auth" />
+        <module name="ms-shop-queries" />
+        <module name="coreapic" />
+        <module name="eureka" />
+        <module name="ms-client-queries" />
+        <module name="ms-admin-commands" />
+        <module name="coreapi (1)" />
+        <module name="ms-product-just-for-test" />
+        <module name="coreapi" />
+        <module name="coreapis" />
+        <module name="admin-query" />
+        <module name="ms-admin-queries" />
+        <module name="ms-client-commands" />
+        <module name="gateway" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="admin-command" target="17" />
+      <module name="admin-query" target="17" />
+      <module name="coreapi" target="17" />
+      <module name="coreapi (1)" target="17" />
+      <module name="coreapic" target="17" />
+      <module name="coreapiclient" target="17" />
+      <module name="coreapis" target="17" />
+      <module name="eureka" target="17" />
+      <module name="gateway" target="17" />
+      <module name="ms-admin-commands" target="17" />
+      <module name="ms-admin-queries" target="17" />
+      <module name="ms-auth" target="17" />
+      <module name="ms-client-commands" target="17" />
+      <module name="ms-client-just-for-test" target="17" />
+      <module name="ms-client-queries" target="17" />
+      <module name="ms-product-just-for-test" target="17" />
+      <module name="ms-shop-commands" target="17" />
+      <module name="ms-shop-queries" target="17" />
+      <module name="te" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="admin-command" options="-parameters" />
+      <module name="admin-query" options="-parameters" />
+      <module name="coreapi" options="-parameters" />
+      <module name="coreapi (1)" options="-parameters" />
+      <module name="coreapic" options="-parameters" />
+      <module name="coreapiclient" options="-parameters" />
+      <module name="coreapis" options="-parameters" />
+      <module name="eureka" options="-parameters" />
+      <module name="gateway" options="-parameters" />
+      <module name="ms-admin-commands" options="-parameters" />
+      <module name="ms-admin-queries" options="-parameters" />
+      <module name="ms-auth" options="-parameters" />
+      <module name="ms-client-commands" options="-parameters" />
+      <module name="ms-client-just-for-test" options="-parameters" />
+      <module name="ms-client-queries" options="-parameters" />
+      <module name="ms-product-just-for-test" options="-parameters" />
+      <module name="ms-shop-commands" options="-parameters" />
+      <module name="ms-shop-queries" options="-parameters" />
+      <module name="te" options="-parameters" />
+    </option>
+  </component>
+</project>

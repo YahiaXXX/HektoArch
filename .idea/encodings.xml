@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/admin-command/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/admin-query/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/coreapi/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-gateway/eureka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-gateway/eureka/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-gateway/gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-gateway/gateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-admin-commands/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-admin-commands/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-admin-queries/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-admin-queries/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-admin/coreapi/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-admin/coreapi/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-admin/ms-admin-commands/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-admin/ms-admin-commands/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-admin/ms-admin-queries/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-admin/ms-admin-queries/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-auth/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-auth/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-authentification/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-authentification/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-client-just-for-test/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-client-just-for-test/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-client/coreapi/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-client/coreapi/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-client/coreapiclient/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-client/coreapiclient/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-client/ms-client-commands/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-client/ms-client-commands/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-client/ms-client-queries/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-client/ms-client-queries/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-product-just-for-test/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-product-just-for-test/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-shop/coreapis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-shop/coreapis/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-shop/ms-shop-commands/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-shop/ms-shop-commands/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-shop/ms-shop-queries/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-shop/ms-shop-queries/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/te/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/te/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

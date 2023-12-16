@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/admin-command/admin-command.iml" filepath="$PROJECT_DIR$/admin-command/admin-command.iml" />
+      <module fileurl="file://$PROJECT_DIR$/admin-query/admin-query.iml" filepath="$PROJECT_DIR$/admin-query/admin-query.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-client/coreapi/coreapi.iml" filepath="$PROJECT_DIR$/ms-client/coreapi/coreapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-client/coreapi/coreapi (1).iml" filepath="$PROJECT_DIR$/ms-client/coreapi/coreapi (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-admin/coreapi/coreapic.iml" filepath="$PROJECT_DIR$/ms-admin/coreapi/coreapic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-shop/coreapis/coreapis.iml" filepath="$PROJECT_DIR$/ms-shop/coreapis/coreapis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/e-commerce.iml" filepath="$PROJECT_DIR$/.idea/e-commerce.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-gateway/eureka/eureka.iml" filepath="$PROJECT_DIR$/eureka-gateway/eureka/eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-gateway/gateway/gateway.iml" filepath="$PROJECT_DIR$/eureka-gateway/gateway/gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-admin/ms-admin-commands/ms-admin-commands.iml" filepath="$PROJECT_DIR$/ms-admin/ms-admin-commands/ms-admin-commands.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-admin/ms-admin-queries/ms-admin-queries.iml" filepath="$PROJECT_DIR$/ms-admin/ms-admin-queries/ms-admin-queries.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-auth/ms-auth.iml" filepath="$PROJECT_DIR$/ms-auth/ms-auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-client/ms-client-commands/ms-client-commands.iml" filepath="$PROJECT_DIR$/ms-client/ms-client-commands/ms-client-commands.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-client-just-for-test/ms-client-just-for-test.iml" filepath="$PROJECT_DIR$/ms-client-just-for-test/ms-client-just-for-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-client/ms-client-queries/ms-client-queries.iml" filepath="$PROJECT_DIR$/ms-client/ms-client-queries/ms-client-queries.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-product-just-for-test/ms-product-just-for-test.iml" filepath="$PROJECT_DIR$/ms-product-just-for-test/ms-product-just-for-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-shop/ms-shop-commands/ms-shop-commands.iml" filepath="$PROJECT_DIR$/ms-shop/ms-shop-commands/ms-shop-commands.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-shop/ms-shop-queries/ms-shop-queries.iml" filepath="$PROJECT_DIR$/ms-shop/ms-shop-queries/ms-shop-queries.iml" />
+    </modules>
+  </component>
+</project>

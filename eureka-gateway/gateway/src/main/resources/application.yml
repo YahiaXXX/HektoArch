@@ -1,0 +1,88 @@
+server:
+  port: 7777
+
+logging:
+  level:
+    org:
+      springframework:
+        cloud:
+          gateway: TRACE
+eureka:
+  client:
+    fetch-registry: true
+    register-with-eureka: true
+    service-url:
+      defaultZone: http://localhost:8761/eureka
+spring:
+  main:
+    web-application-type: reactive
+  application:
+    name: ms-gateway
+  cloud:
+    gateway:
+      routes:
+        - id: route1
+          predicates:
+            - Path=/ms-admin-commands/**
+          filters:
+            - RewritePath=/ms-admin-commands/(?<s>.*), /${s}
+#            - name: CircuitBreaker
+#              args:
+#                name: FallBabk-formation
+#                fallbackuri: forward:/defaultFormations
+          uri: lb://ms-admin-commands
+
+        - id: route2
+          predicates:
+            - Path=/ms-admin-queries/**
+          filters:
+            - RewritePath=/ms-admin-queries/(?<s>.*), /${s}
+
+          uri: lb://ms-admin-queries
+
+        - id: route3
+          predicates:
+            - Path=/ms-auth/**
+          filters:
+            - RewritePath=/ms-auth/(?<s>.*), /${s}
+
+          uri: lb://ms-auth
+
+        - id: route5
+          predicates:
+            - Path=/ms-client-commands/**
+          filters:
+            - RewritePath=/ms-client-commands/(?<s>.*), /${s}
+
+          uri: lb://ms-client-commands
+
+        - id: route6
+          predicates:
+            - Path=/ms-client-queries/**
+          filters:
+            - RewritePath=/ms-client-queries/(?<s>.*), /${s}
+
+          uri: lb://ms-client-queries
+        - id: route7
+          predicates:
+            - Path=/ms-shop-commands/**
+          filters:
+            - RewritePath=/ms-shop-commands/(?<s>.*), /${s}
+
+          uri: lb://ms-shop-commands
+        - id: route8
+          predicates:
+            - Path=/ms-shop-queries/**
+          filters:
+            - RewritePath=/ms-shop-queries/(?<s>.*), /${s}
+
+          uri: lb://ms-shop-queries
+
+#        - id: route4
+#          predicates:
+#            - Path=/ms-formation-mysql/**
+#          filters:
+#            - RewritePath=/ms-formation-mysql/(?<s>.*), /${s}
+#
+#          uri: lb://ms-formation-mysql
+#
